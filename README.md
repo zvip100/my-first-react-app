@@ -1,8 +1,9 @@
-# React + Vite
+# My First React App!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The following App is a React JS front-end Program which begins with a form to prompt the user for their name.
 
-Currently, two official plugins are available:
+If they submit their name they get a greeting with their name.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Then a list of items is displayed, following with a dropdown to filter the list based on the user's category selection.
+
+Every time the user selects an option via the dropdown the item list gets re-rendered to display it accordingly.
